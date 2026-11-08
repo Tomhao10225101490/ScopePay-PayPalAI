@@ -1,0 +1,51 @@
+{
+  "environment": "sandbox",
+  "notice": "Synthetic demonstration scope; actual sandbox receipt, no real funds. No credential or session data included.",
+  "title": "Piano studio launch \u00b7 Demo",
+  "quote": {
+    "currency": "USD",
+    "lines": [
+      {
+        "id": "booking",
+        "name": "Booking integration",
+        "price": 8500,
+        "unit": "setup",
+        "description": "Add an appointment scheduling calendar or booking form so visitors can reserve a lesson or consultation.",
+        "deliverable": "One existing scheduling provider embedded and tested; provider fees excluded.",
+        "quantity": 1,
+        "total": 8500
+      },
+      {
+        "id": "analytics",
+        "name": "Analytics setup",
+        "price": 6500,
+        "unit": "setup",
+        "description": "Install website analytics, measure visits, conversions and signups, configure tracking events.",
+        "deliverable": "One analytics property and up to three conversion events; client supplies account access.",
+        "quantity": 1,
+        "total": 6500
+      },
+      {
+        "id": "landing",
+        "name": "Landing page",
+        "price": 28000,
+        "unit": "page",
+        "description": "Design and build a single responsive marketing landing page for a product, event or small business.",
+        "deliverable": "One responsive page, desktop and mobile layouts, one revision round.",
+        "quantity": 1,
+        "total": 28000
+      }
+    ],
+    "total": 43000
+  },
+  "receipt": {
+    "orderId": "5X415157XF069122J",
+    "captureId": "79B230430C593651J",
+    "status": "COMPLETED",
+    "currency": "USD",
+    "total": 43000,
+    "paidAt": "2026-11-08T15:13:00Z",
+    "verifiedAt": "2026-11-08T15:13:01.120Z",
+    "environment": "sandbox"
+  }
+}

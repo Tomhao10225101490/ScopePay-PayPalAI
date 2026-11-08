@@ -1,0 +1,90 @@
+{
+  "files": [
+    {
+      "path": "package.json",
+      "sha256": "012ae4ff9340dd39b04a4088c3e58ee8509943002191313fca9d940366ac7931",
+      "bytes": 427
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "f0d17b822eff65e7ee02fa34e2c1f394f1f5b56c3364623befcb7c49c00c78cd",
+      "bytes": 37646
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e9d207adeb832f3aa456d27aac48f4485081f40fabab36610f8600f745abe0cb",
+      "bytes": 49
+    },
+    {
+      "path": ".env.example",
+      "sha256": "6974c39cc69cf2d7f8ad612c9242f4c1fe51f5cf7c2b69d95eb79faa4c868d2a",
+      "bytes": 142
+    },
+    {
+      "path": "README.md",
+      "sha256": "4e42896848d5d067be6e68155f1844f3dc7b257cb194228eb530e71d1a292494",
+      "bytes": 5770
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "04841a80f9cee593b43c7b376bac1abf57942a023184d0f62d62fcc83525fd94",
+      "bytes": 1066
+    },
+    {
+      "path": "VERIFICATION.md",
+      "sha256": "552313b6417ba8fcc9274b92f209376affad3122f5f5f5e7c2a020544c6cfd17",
+      "bytes": 3419
+    },
+    {
+      "path": "src/ai.mjs",
+      "sha256": "a6c56b041d9094ef7c0def45dd64d659690325d8a1ec42808299ced735e1caed",
+      "bytes": 2726
+    },
+    {
+      "path": "src/catalog.mjs",
+      "sha256": "f062eec26ad157b8acdba250950f818176beceb2041f978322aff668b93ba83d",
+      "bytes": 2321
+    },
+    {
+      "path": "src/paypal.mjs",
+      "sha256": "91f49c8305eb2972f0c2b3b0734bf880577529fd0062215a13d9a95ec39725f4",
+      "bytes": 3300
+    },
+    {
+      "path": "src/server.mjs",
+      "sha256": "dd25d3b9d63b0dff41a6073e9dec4d04b17a7d9d9e591ce86be5c42e5c554f5d",
+      "bytes": 6373
+    },
+    {
+      "path": "public/app.js",
+      "sha256": "6e75e3fbfbaeeadba5a59ece09d68f54e71bc1f0eb0335e5041dd476707015aa",
+      "bytes": 12872
+    },
+    {
+      "path": "public/index.html",
+      "sha256": "7e8f3619b5ce216e92499500ab92a4eb47fd601d008128dbb063633f03855f99",
+      "bytes": 445
+    },
+    {
+      "path": "public/style.css",
+      "sha256": "c9cf06781a0330a66d5092efb9becc16442d44cf224723daa82f2188c73ef986",
+      "bytes": 8531
+    },
+    {
+      "path": "test/ai.test.mjs",
+      "sha256": "dc73fad5c844c160fa1e9ea86c4b4bdf26db98d6f9af79f32781957184695b69",
+      "bytes": 815
+    },
+    {
+      "path": "test/core.test.mjs",
+      "sha256": "ac15867a272d353afc4495c517f4b99d5e95c2fcb066e86ca49b7d7b31888e53",
+      "bytes": 1734
+    },
+    {
+      "path": "test/http.integration.mjs",
+      "sha256": "d85c79da24b83a5ed03ee3d641a0c5efac4f21f2708daa305becd7bb257c15df",
+      "bytes": 1716
+    }
+  ],
+  "archive_sha256": "4ac4852189b49413c2c5eeb229403293121b6cebe397f600d9746c45d4605c86"
+}

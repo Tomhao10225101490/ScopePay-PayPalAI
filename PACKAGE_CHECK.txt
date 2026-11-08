@@ -1,0 +1,5 @@
+Allowlisted source files: 17
+Private credential exact-value scan: passed
+Excluded: .env, data/, node_modules/, .cache/, browser/account captures, private recorder artifacts
+Source archive SHA256: 4ac4852189b49413c2c5eeb229403293121b6cebe397f600d9746c45d4605c86
+Root LICENSE: MIT, original project source. Third-party licenses retained.
